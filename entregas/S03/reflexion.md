@@ -1,4 +1,4 @@
-# Reflexión final y forma (síntesis conjunta)
+# Reflexión final y forma 
 
 **Patrón compartido:** en ambos casos el dolor de fondo **no es la mala atención humana en sí**, es la **falta de continuidad y visibilidad del caso** entre canales y agentes: se pierde el contexto y no tiene un lugar donde ver el estado real de su reclamo.
 
