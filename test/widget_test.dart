@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:pantalla3/main.dart';
+=======
+import 'package:marcador/main.dart';
+>>>>>>> 91193cb (Primer commit)
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
